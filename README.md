@@ -12,6 +12,8 @@
 - In a new code file, write the code that is being tested - `simple_calc.py`
 - After each stage is written, run the test file to ensure what has been adding is passing the tests
 - When the required tests are passed, move onto the next iteration until the code is finished
+
+![img.png](img.png)
 ```python
 class SimpleCalc:
 
