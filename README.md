@@ -13,7 +13,8 @@
 - After each stage is written, run the test file to ensure what has been adding is passing the tests
 - When the required tests are passed, move onto the next iteration until the code is finished
 
-![img.png](img.png)
+![TDD_diagram.png](/Users/Tom1/Documents/Sparta/TDD_diagram.png) 
+
 ```python
 class SimpleCalc:
 
