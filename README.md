@@ -1,9 +1,6 @@
 # TDD - Test Driven Development
 
-- Let's dive into coding
-- We have already completed step 1 and 2 (Repo and Pycharm project)
-- Step 3 is creating a file called calc_test.py
-- We will use `unittest` and `pytest`
+- We will use `unittest` and `pytest` modules
 - `pip install pytest`
 - `python -m unittest`
 - `python -m unittest discover -v`
@@ -13,8 +10,8 @@
 - Once a Pycharm project has been started create a test file - in this case `calc_test.py` ensuring it has "test" in the name
 - Within this file write to required tests and import the `unittest` and `pytest` modules, using the pip install method if necessary and import the class that will be tested
 - In a new code file, write the code that is being tested - `simple_calc.py`
-- after each stage is written, run the test file to ensure what has been adding is passing the tests
-- when the required tests are passed, move onto the next iteration until the code is finished
+- After each stage is written, run the test file to ensure what has been adding is passing the tests
+- When the required tests are passed, move onto the next iteration until the code is finished
 ```python
 class SimpleCalc:
 
